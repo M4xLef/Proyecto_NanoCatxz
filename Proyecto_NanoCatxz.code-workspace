@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/Proyecto_NanoCatxz/vistas"
+		},
+		{
+			"path": "../../Downloads/Proyecto_NanoCatxz/modelo"
+		},
+		{
+			"path": "../../Downloads/Proyecto_NanoCatxz/css"
+		},
+		{
+			"path": "../../Downloads/Proyecto_NanoCatxz/js"
+		},
+		{
+			"path": "../../Downloads/Proyecto_NanoCatxz/img"
+		},
+		{
+			"path": "../../Downloads/Proyecto_NanoCatxz/controlador"
+		}
+	],
+	"settings": {}
+}
