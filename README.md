@@ -10,9 +10,9 @@ La aplicación facilitará el manejo eficiente de información relacionada con s
 ---
 
 ## Contactos de los integrantes
-#**Thomas Coimbra:** 1234gtoto@gmail.com
-#**Bruno Vázquez:** bryno8048@gmail.com
-#**Maximo Erle:** erlemaximo666@gmail.com
+**Thomas Coimbra:** 1234gtoto@gmail.com
+**Bruno Vázquez:** bryno8048@gmail.com
+**Maximo Erle:** erlemaximo666@gmail.com
 
 ## Funcionalidades y propiedades principales
 
