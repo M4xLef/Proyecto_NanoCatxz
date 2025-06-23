@@ -44,7 +44,7 @@ La aplicación facilitará el manejo eficiente de información relacionada con s
 ## Mockups y diagramas
 - **Diagrama de casos de uso**[Aquí](https://www.canva.com/design/DAGpiMxYz0U/Zm6dvjbDQKZfE8Y91-A3QA/edit?utm_content=DAGpiMxYz0U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - **Modelo entidad-relacion**[Aquí](https://www.canva.com/design/DAGqkD-z7OA/P9OlYR9k0pBceIGom2N-4g/edit?utm_content=DAGqkD-z7OA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
+-**Flujograma** [Aqui](https://miro.com/welcomeonboard/OS81WFhHYW1xbHhJaTJDVHpHMzFCSElReG5sQUtNNm5FaWY0dGlmc3djYTFlZktpZ1YwbDd5T1pmcit1NGZnc0VTVGw0bmI4LzBIQW1wUkU2bGZBZzlNbzNQTUw5S0xmKzNTZHZVQ0ZjWTQzMUNuU2NqajZhU21xU3pscnhoNlNhWWluRVAxeXRuUUgwWDl3Mk1qRGVRPT0hdjE=?share_link_id=411912149352)
 - **Mockups**[Aquí](https://miro.com/welcomeonboard/b1VRam4xSWkwU2ZCWWRTcjRhdGlpb1JOVVdmODlPOWYwMWQzbGhmS1Y2NW9zSmdacDJvS0lXajlGeWdjdnhqR24yV2JORGExRGFML0VYRkl1VnZ3VFFLYlJlNld2VDcwMytDc2dqYkRlMWthSjFMVC9Qb2wyYjlWWkwySzBKL0ZyVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=?share_link_id=542053862340)
 
 ---
