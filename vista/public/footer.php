@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Footer</title>
-    <link rel="stylesheet" href="/css/estilo_footer.css">
+    <link rel="stylesheet" href="\css\estilo_footer.css">
 </head>
 
 <body>
@@ -30,10 +30,10 @@
                     <li><a href="#">Locales de Microfix</a></li>
                 </ul>
                 <div class="red-social">
-                    <a href="#"><img src="/img/icon-whatsapp.png" style="width: 20px;" alt="Icono de Whatsapp"></a>
-                    <a href="#"><img src="/img/icon-instagram.png" style="width: 20px;" alt="Icono de Instagram"></a>
-                    <a href="#"><img src="/img/icon-facebook.png" style="width: 20px;" alt="Icono de Facebook"></a>
-                    <a href="#"><img src="/img/icon-Tiktok.png" style="width: 20px;" alt="Icono de Tiktok"></a>
+                    <a href="#"><img src="\img\icon-whatsapp.png" style="width: 20px;" alt="Icono de Whatsapp"></a>
+                    <a href="#"><img src="\img\icon-instagram.png" style="width: 20px;" alt="Icono de Instagram"></a>
+                    <a href="#"><img src="\img\icon-facebook.png" style="width: 20px;" alt="Icono de Facebook"></a>
+                    <a href="#"><img src="\img\icon-Tiktok.png" style="width: 20px;" alt="Icono de Tiktok"></a>
                 </div>
 
 
@@ -44,8 +44,8 @@
         &copy; 2025 Microfix Todos los derechos reservados.
     </div>
     <div class="right">
-        Desarrollado por <b>NanoCatkz</b>
-        <img src="/img/logo-nanocatxz.png" alt="logo de NanoCatxz">
+        Desarrollado por NanoCatxz
+        <img src="\img\logo-nanocatxz.png" alt="logo de NanoCatxz">
     </div>
 </div>
     </footer>
